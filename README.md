@@ -1,6 +1,6 @@
-## 👋 Hi, I’m @czarinamanipon ✨
+## 👋 Hi, I’m @czarinamanipon
 ##### *BA Computer Science, Pace University, Dec. '21*
-###  👀 I’m interested in:
+###  ✨ I’m interested in:
       * Mobile App and Web Development
       * Full Stack Development
       * UX/UI
