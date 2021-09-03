@@ -6,7 +6,7 @@
 ###  🌱 I’m currently learning:
       * Machine Learning (Tensorflow.js, Scikit-Learn)
       * AI Solutions on IBM Cloud (Watson Assistant, Watson Discovery, Cloud Pak for Data)
-      * Kubernetes and Red Hat OpenShift
+      * Containers (Kubernetes, Docker, Red Hat OpenShift)
       * JavaScript Frameworks (Node.js, React, Angular.js)
       * Programming (Python, C++)
 ###  ✉ **How to reach me:**
