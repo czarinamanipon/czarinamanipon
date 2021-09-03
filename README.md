@@ -2,7 +2,7 @@
 ##### *BA Computer Science, Pace University, Dec. '21*
 ###  ✨ I’m interested in:
       * Mobile App and Web Development
-      * Full Stack Development
+      * Full Stack Software Development
       * UX/UI
 ###  🌱 I’m currently learning:
       * Machine Learning (Tensorflow.js, Scikit-Learn)
